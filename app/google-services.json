@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "533569923701",
+    "firebase_url": "https://payit-project-a3c21-default-rtdb.firebaseio.com",
+    "project_id": "payit-project-a3c21",
+    "storage_bucket": "payit-project-a3c21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533569923701:android:9a6188f7969a92b044663c",
+        "android_client_info": {
+          "package_name": "com.lyranetwork.sampleandroidwebview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533569923701-2pug6ij1f535cf9mc1ot7i2dm6pcumom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3I6Bafkswg18pKyLBpJMc3wjuNhFAyQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533569923701-2pug6ij1f535cf9mc1ot7i2dm6pcumom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533569923701:android:1ccdf83bdd0ee63644663c",
+        "android_client_info": {
+          "package_name": "com.showupdate.merchants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533569923701-2pug6ij1f535cf9mc1ot7i2dm6pcumom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3I6Bafkswg18pKyLBpJMc3wjuNhFAyQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533569923701-2pug6ij1f535cf9mc1ot7i2dm6pcumom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
